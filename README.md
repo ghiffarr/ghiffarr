@@ -11,13 +11,23 @@ I build responsive web interfaces and turn design ideas into working experiences
 **Deployment & workflow:** GitHub, Vercel, Git  
 **Also explored:** Python, Flutter, and applied machine learning
 
-### 🚀 Selected projects
+### 🚀 Website rebuilds at Dorxata
 
-| Project | What it demonstrates | Tech |
+I work as a Junior Web Developer at **Dorxata**, rebuilding websites and using AI-assisted development tools to support implementation, debugging, QA, and deployment workflows. These projects preserve existing brand designs; my work focuses on the rebuild and migration.
+
+| Project | Rebuild focus | Technology |
 | --- | --- | --- |
-| [Study Sprint](https://github.com/ghiffarr/study-sprint) · [Live demo](https://ghiffarr.github.io/study-sprint/) | Interactive study timer and task tracker, developed and tested through an AI-assisted workflow. Includes local storage and responsive layouts. | HTML, CSS, JavaScript |
-| [Emotion Detector](https://github.com/ghiffarr/emotion-detector) | Coursework experiment with a Python module that calls a hosted emotion-prediction API. This is a learning project, not a complete web app. | Python, requests, Watson NLP endpoint |
-| [Responsive UI Trial](https://github.com/ghiffarr/figma-footer-trial) · [Demo](https://figma-footer-trial.vercel.app/) | Component-based, responsive webpage implementation exercise; UI only, not a production website. | React, TypeScript, CSS, Vite |
+| [Max Space](https://github.com/ghiffarr/maxspace-astro) | Webflow-to-Astro reconstruction with editable page sections, local assets, and responsive QA documentation. | Astro, HTML, CSS, JavaScript |
+| [Spalk](https://github.com/ghiffarr/spalk-astro) | Source-preserving migration with shared rendering, clean routes, localized media, and interaction checks. | Astro, HTML, CSS, JavaScript |
+| [Threds](https://github.com/ghiffarr/threds-astro) | Multi-page reconstruction preserving CMS exports, with desktop/mobile comparison evidence and asset checks. | Astro, HTML, CSS, JavaScript |
+
+[Rudder Astro](https://github.com/ghiffarr/rudder-astro) is also pinned, but its current default branch contains the starter scaffold; the completed rebuild is not present there yet.
+
+### Other projects
+
+- [Study Sprint](https://github.com/ghiffarr/study-sprint) — study timer and task tracker · [Demo](https://ghiffarr.github.io/study-sprint/)
+- [Responsive UI Trial](https://github.com/ghiffarr/figma-footer-trial) — React and TypeScript interface exercise · [Demo](https://figma-footer-trial.vercel.app/)
+- [Emotion Detector](https://github.com/ghiffarr/emotion-detector) — Python coursework module calling a hosted NLP endpoint
 
 ### 💡 What I'm focusing on
 
