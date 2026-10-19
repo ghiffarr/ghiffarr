@@ -15,13 +15,12 @@ I build responsive web interfaces and turn design ideas into working experiences
 
 I work as a Junior Web Developer at **Dorxata**, rebuilding websites and using AI-assisted development tools to support implementation, debugging, QA, and deployment workflows. These projects preserve existing brand designs; my work focuses on the rebuild and migration.
 
-| Project | Rebuild focus | Technology |
+| Tool | Selected website | My contribution |
 | --- | --- | --- |
-| [Max Space](https://github.com/ghiffarr/maxspace-astro) | Webflow-to-Astro reconstruction with editable page sections, local assets, and responsive QA documentation. | Astro, HTML, CSS, JavaScript |
-| [Spalk](https://github.com/ghiffarr/spalk-astro) | Source-preserving migration with shared rendering, clean routes, localized media, and interaction checks. | Astro, HTML, CSS, JavaScript |
-| [Threds](https://github.com/ghiffarr/threds-astro) | Multi-page reconstruction preserving CMS exports, with desktop/mobile comparison evidence and asset checks. | Astro, HTML, CSS, JavaScript |
+| **Astro** | [Max Space](https://github.com/ghiffarr/maxspace-astro) | Webflow-to-Astro migration with editable page sections, local assets, responsive QA, and deployment preparation. |
+| **Lovable** | [Spalk](https://github.com/ghiffarr/spalk-lovable) · private repository | Website rebuild work using Lovable, including iteration, layout review, and deployment workflows. |
 
-[Rudder Astro](https://github.com/ghiffarr/rudder-astro) is also pinned, but its current default branch contains the starter scaffold; the completed rebuild is not present there yet.
+These selections highlight one website for each workflow I use: **Astro** and **Lovable**. The Spalk repository is currently private, so its source is not available to public visitors.
 
 ### Other projects
 
