@@ -17,8 +17,8 @@ I work as a Junior Web Developer at **Dorxata**, rebuilding websites and using A
 
 | Tool | Selected website | My contribution |
 | --- | --- | --- |
-| **Astro** | [Max Space](https://github.com/ghiffarr/maxspace-astro) | Webflow-to-Astro migration with editable page sections, local assets, responsive QA, and deployment preparation. |
-| **Lovable** | [Spalk](https://github.com/ghiffarr/spalk-lovable) · private repository | Website rebuild work using Lovable, including iteration, layout review, and deployment workflows. |
+| **Astro** | [Max Space](https://github.com/ghiffarr/maxspace-astro) | Completed the full website rebuild using Astro, including page implementation, responsive layouts, interactions, QA, and deployment. |
+| **Lovable** | [Spalk](https://github.com/ghiffarr/spalk-lovable) · private repository | Completed the full website rebuild using Lovable, including page implementation, responsive layouts, interactions, QA, and publishing. |
 
 These selections highlight one website for each workflow I use: **Astro** and **Lovable**. The Spalk repository is currently private, so its source is not available to public visitors.
 
